@@ -38,7 +38,7 @@ Storage Engineer<br/>
 
 <p>🧠 <strong>AI Infra</strong> &nbsp;<sub>LLM training & inference systems</sub></p>
 <p>💾 <strong>Storage</strong> &nbsp;<sub>Distributed & object storage for AI</sub></p>
-<p>🤖 <strong>Agent Ecosystem</strong> &nbsp;<sub>Coding agents & multi-agent systems</sub></p>
+<p>🤖 <strong>Agent Ecosystem</strong> &nbsp;<sub>Coding & multi-agent systems</sub></p>
 <p>🦾 <strong>Embodied AI</strong> &nbsp;<sub>Robotics & embodied intelligence</sub></p>
 <p>🚀 <strong>Startups</strong> &nbsp;<sub>Early-stage products, from 0 to 1</sub></p>
 <img src="assets/spacer.png" width="440" height="1" alt="">
