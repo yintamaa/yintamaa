@@ -5,11 +5,6 @@
     <strong>Storage Systems · AI Infrastructure · Agent Ecosystem</strong>
   </p>
   <p>
-    <strong>🌐 <a href="https://www.yintama.com/">yintama.com</a></strong>
-    &nbsp;·&nbsp;
-    <strong>🧰 <a href="https://www.yintama.com/toolbox/">Toolbox</a></strong>
-  </p>
-  <p>
     <code>💾 Storage</code>
     <code>🧠 AI Infra</code>
     <code>🤖 Agents</code>
