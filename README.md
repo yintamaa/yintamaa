@@ -30,11 +30,11 @@
 <td valign="top" width="48%">
 
 #### 🔭 Focus On
-- 🧠 **AI Infra** — 训练与推理背后的系统工程，让算力跑得更快、更省
-- 💾 **Storage** — 面向 AI 时代的海量数据底座：高可靠、高吞吐、低成本
-- 🤖 **Agent Ecosystem** — Coding Agent、工具链与多 Agent 协作，让 AI 真正上手干活
-- 🦾 **Embodied AI** — 让智能走出屏幕，走进物理世界
-- 🚀 **Startups** — 关注各类早期产品，从 0 到 1 把想法变成现实
+- 🧠 **AI Infra** — 大模型训练与推理系统、算力调度与性能优化
+- 💾 **Storage** — 分布式存储与对象存储，面向 AI 的高性能数据底座
+- 🤖 **Agent Ecosystem** — Coding Agent、工具调用与多 Agent 协同
+- 🦾 **Embodied AI** — 具身智能与机器人系统
+- 🚀 **Startups** — 早期产品探索与 0→1 落地
 
 </td>
 </tr>
