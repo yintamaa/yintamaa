@@ -37,5 +37,5 @@
 </table>
 
 <p align="center">
-  <sub>长期主义，持续构建。</sub>
+  <sub>Think long-term. Keep building.</sub>
 </p>
