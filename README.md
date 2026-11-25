@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=0078D7&center=true&pause=100000&lines=Hi,+I'm+Yintama.+Storage+Architect+%40+Tencent" alt="Hi"/>
   <p>
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" height="28px"/>
-    <strong>Building the data foundation for AI, and exploring what agents can do on top of it.</strong>
+    <strong>Storage Systems · AI Infrastructure · Agent Ecosystem</strong>
   </p>
   <p>
     <strong>🌐 <a href="https://www.yintama.com/">yintama.com</a></strong>
@@ -41,5 +41,5 @@
 </table>
 
 <p align="center">
-  <sub>从小处着手，在实践中迭代，做长期的事。</sub>
+  <sub>长期主义，持续构建。</sub>
 </p>
