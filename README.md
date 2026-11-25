@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=0078D7&center=true&pause=100000&lines=Hi,+I'm+Yintama.+Storage+Architect+%40+Tencent" alt="Hi"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=0078D7&center=true&pause=100000&lines=Hi,+I'm+Yintama.+Storage+%26+Distributed+Systems+Architect" alt="Hi"/>
   <p>
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" height="28px"/>
     <strong>Designing large-scale storage systems for AI workloads.</strong>
@@ -18,8 +18,12 @@
 
 #### 💼 Work Experience
 <p>
-<strong>Tencent</strong> -- <code>Storage Architect</code> -- <code>2023.3 to now.</code><br/>
-<strong>Tencent</strong> -- <code>Storage Engineer</code> -- <code>2021.7 to 2023.1.</code><br/>
+<strong>Big Tech</strong> -- <code>Storage & Distributed Systems Architect</code> -- <code>2023.3 to now.</code><br/>
+<sub>Object storage architecture and large-scale distributed system design.</sub>
+</p>
+<p>
+<strong>Big Tech</strong> -- <code>Storage Engineer</code> -- <code>2021.7 to 2023.1.</code><br/>
+<sub>Object storage system development, including garbage collection and storage cost governance.</sub>
 </p>
 
 </td>
