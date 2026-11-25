@@ -26,22 +26,15 @@
 <strong>Tencent</strong> -- <code>存储架构师 · Storage Architect</code> -- <code>2021.7 to now.</code><br/>
 </p>
 
+</td>
+<td valign="top" width="48%">
+
 #### 🔭 Focus On
 - 🧠 **AI Infra** — 训练与推理背后的系统工程，让算力跑得更快、更省
 - 💾 **Storage** — 面向 AI 时代的海量数据底座：高可靠、高吞吐、低成本
 - 🤖 **Agent Ecosystem** — Coding Agent、工具链与多 Agent 协作，让 AI 真正上手干活
 - 🦾 **Embodied AI** — 让智能走出屏幕，走进物理世界
 - 🚀 **Startups** — 关注各类早期产品，从 0 到 1 把想法变成现实
-
-</td>
-<td valign="top" width="48%">
-
-#### 💻 Open Source Experience
-
-- 🧩 **Contributor to [nwverse/Persona](https://github.com/nwverse/persona)** — 个人 AI 助理与 Agent 编排
-- 🌉 **Contributor to [Botmux](https://github.com/deepcoldy/botmux)** — 把飞书 / Lark 接到 Claude Code、Codex 等 AI 编程 CLI
-- 🎨 **Contributor to [Open Design](https://github.com/nexu-io/open-design)** — 开源的 AI 设计工作台
-- 🏆 **ACM-ICPC** 算法竞赛选手 — [刷题与模板](https://github.com/yintamaa/ACM-ICPC_Code_Lap)
 
 </td>
 </tr>
