@@ -29,6 +29,7 @@ Storage & Distributed Systems Architect<br/>
 Storage Engineer<br/>
 <sub>Object storage, garbage collection & cost governance.</sub>
 </p>
+<img src="assets/spacer.png" width="440" height="1" alt="">
 
 </td>
 <td valign="top" width="50%">
@@ -40,6 +41,7 @@ Storage Engineer<br/>
 <p>🤖 <strong>Agent Ecosystem</strong> &nbsp;<sub>Coding agents & multi-agent systems</sub></p>
 <p>🦾 <strong>Embodied AI</strong> &nbsp;<sub>Robotics & embodied intelligence</sub></p>
 <p>🚀 <strong>Startups</strong> &nbsp;<sub>Early-stage products, from 0 to 1</sub></p>
+<img src="assets/spacer.png" width="440" height="1" alt="">
 
 </td>
 </tr>
