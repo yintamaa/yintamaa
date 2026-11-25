@@ -36,13 +36,11 @@ Object storage, garbage collection & cost governance.
 
 #### 🔭 Focus On
 
-<p>
-🧠 <strong>AI Infra</strong> — LLM training & inference<br/>
-💾 <strong>Storage</strong> — Distributed & object storage<br/>
-🤖 <strong>Agent Ecosystem</strong> — Coding agents & tools<br/>
-🦾 <strong>Embodied AI</strong> — Robotics systems<br/>
-🚀 <strong>Startups</strong> — 0 → 1 products
-</p>
+<p>🧠 <strong>AI Infra</strong> — LLM training & inference</p>
+<p>💾 <strong>Storage</strong> — Distributed & object storage</p>
+<p>🤖 <strong>Agent Ecosystem</strong> — Coding agents & tools</p>
+<p>🦾 <strong>Embodied AI</strong> — Robotics systems</p>
+<p>🚀 <strong>Startups</strong> — 0 → 1 products</p>
 
 <img src="assets/spacer.png" width="440" height="1" alt="">
 
