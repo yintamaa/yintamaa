@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=0078D7&center=true&pause=100000&lines=Hi,+I'm+Yintama.+Storage+Architect+%40+Tencent" alt="Hi"/>
   <p>
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" height="28px"/>
-    <strong>Storage Systems · AI Infrastructure · Agent Ecosystem</strong>
+    <strong>Designing large-scale storage systems for AI workloads.</strong>
   </p>
   <p>
     <code>💾 Storage</code>
@@ -18,18 +18,19 @@
 
 #### 💼 Work Experience
 <p>
-<strong>Tencent</strong> -- <code>存储架构师 · Storage Architect</code> -- <code>2021.7 to now.</code><br/>
+<strong>Tencent</strong> -- <code>Storage Architect</code> -- <code>2023.3 to now.</code><br/>
+<strong>Tencent</strong> -- <code>Storage Engineer</code> -- <code>2021.7 to 2023.1.</code><br/>
 </p>
 
 </td>
 <td valign="top" width="48%">
 
 #### 🔭 Focus On
-- 🧠 **AI Infra** — 大模型训练与推理系统、算力调度与性能优化
-- 💾 **Storage** — 分布式存储与对象存储，面向 AI 的高性能数据底座
-- 🤖 **Agent Ecosystem** — Coding Agent、工具调用与多 Agent 协同
-- 🦾 **Embodied AI** — 具身智能与机器人系统
-- 🚀 **Startups** — 早期产品探索与 0→1 落地
+- 🧠 **AI Infra** — LLM training & inference systems, compute scheduling and performance optimization
+- 💾 **Storage** — Distributed and object storage, high-performance data foundation for AI
+- 🤖 **Agent Ecosystem** — Coding agents, tool use and multi-agent collaboration
+- 🦾 **Embodied AI** — Embodied intelligence and robotic systems
+- 🚀 **Startups** — Early-stage products, from 0 to 1
 
 </td>
 </tr>
