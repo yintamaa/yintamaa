@@ -21,7 +21,7 @@
 <p>
 <strong>Storage & Distributed Systems Architect</strong><br/>
 Big Tech · <code>2023.3 – now</code><br/>
-Object storage architecture & distributed system design.
+Object storage & distributed system architecture.
 </p>
 
 <p>
@@ -36,11 +36,13 @@ Object storage, garbage collection & cost governance.
 
 #### 🔭 Focus On
 
-- 🧠 **AI Infra** — LLM training & inference systems
-- 💾 **Storage** — Distributed & object storage for AI
-- 🤖 **Agent Ecosystem** — Coding & multi-agent systems
-- 🦾 **Embodied AI** — Robotics & embodied intelligence
-- 🚀 **Startups** — Early-stage products, from 0 to 1
+<p>
+🧠 <strong>AI Infra</strong> — LLM training & inference<br/>
+💾 <strong>Storage</strong> — Distributed & object storage<br/>
+🤖 <strong>Agent Ecosystem</strong> — Coding agents & tools<br/>
+🦾 <strong>Embodied AI</strong> — Robotics systems<br/>
+🚀 <strong>Startups</strong> — 0 → 1 products
+</p>
 
 <img src="assets/spacer.png" width="440" height="1" alt="">
 
